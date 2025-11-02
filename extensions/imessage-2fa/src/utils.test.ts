@@ -55,7 +55,9 @@ describe("Testing matching logic", () => {
   });
 
   test("Japanese 2FA message with full-width colon", () => {
-    expect(extractCode("ご利用金額をご確認ください 金額：20JPY パスワード：11223344 フィッシング詐欺にご注意！ エポスカード")).toBe("11223344");
+    expect(
+      extractCode("ご利用金額をご確認ください 金額：20JPY パスワード：11223344 フィッシング詐欺にご注意！ エポスカード")
+    ).toBe("11223344");
   });
 });
 
