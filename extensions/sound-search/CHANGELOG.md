@@ -1,6 +1,6 @@
 # Sound Search Changelog
 
-## [Initial Version] - {PR_MERGE_DATE}
+## [Initial Version] - 2025-11-07
 
 ### Added
 - Core command: **Search for Sounds** – Quickly find sound or music samples by genre from available sources.
