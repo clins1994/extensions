@@ -5,9 +5,12 @@
   "description": "Search for sounds across multiple services",
   "icon": "icon.png",
   "author": "clins1994",
+  "owner": "soundraw",
+  "access": "public",
   "contributors": [
     "ravi_s",
-    "caio-soundraw"
+    "caio-soundraw",
+    "pernielsentikaer"
   ],
   "platforms": [
     "macOS"
