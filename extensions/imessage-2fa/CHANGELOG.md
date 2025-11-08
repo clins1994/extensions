@@ -1,6 +1,6 @@
 # Messages 2FA Changelog
 
-## [Update] - {PR_MERGE_DATE}
+## [Update] - 2025-11-08
 - Add support for Epos Card 2FA (Japanese Credit Card)
 
 ## [Update] - 2025-04-29
